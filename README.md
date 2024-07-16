@@ -31,4 +31,7 @@ Ajout du bouton supprimé
 
 <img src="./src/assets/delete.png">
 
+Illustration klaxon
+
+<img src="./src/assets/klaxon.png">
 
